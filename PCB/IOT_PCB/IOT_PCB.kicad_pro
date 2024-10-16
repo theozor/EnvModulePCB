@@ -477,7 +477,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "BOM\\IOT_PCB_BOMcsv.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -667,7 +667,7 @@
   "sheets": [
     [
       "b2232e68-d2f9-4304-9438-2748d4e6e628",
-      "Rotark"
+      "Root"
     ]
   ],
   "text_variables": {}
